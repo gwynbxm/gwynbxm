@@ -1,4 +1,4 @@
-## Hello there, I'm Gwyn! 👋 </br>
+## 👋 Hello there, I'm Gwyn!  </br>
 🎓 Final Year Computer Science Student at NTU, Singapore <br>
 👀 I’m interested in mobile, web developments and photography <br>
 🌱 I’m currently learning Flutter framework and Reactjs<br>
