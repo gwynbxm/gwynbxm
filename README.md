@@ -1,5 +1,4 @@
-## Hello there 👋 </br>
-I am Gwyn Bong, a final year Computer Science undergraduate at Nanyang Technological University, Singapore. </br>
+## Hello there, I'm Gwyn! 👋 </br>
 - 🎓 Final Year Computer Science Student at NTU, Singapore
 - 👀 I’m interested in mobile, web developments and photography
 - 🌱 I’m currently learning Flutter framework and Reactjs
