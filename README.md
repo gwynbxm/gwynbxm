@@ -1,5 +1,5 @@
 ## 👋 Hello there, I'm Gwyn!  </br>
-🎓 Final Year Computer Science Student at NTU, Singapore <br>
+🎓 A Final Year Computer Science Student at NTU, Singapore <br>
 👀 I’m interested in mobile, web developments and photography <br>
 🌱 I’m currently learning Flutter framework and Reactjs<br>
 ✉️ Drop me an email at gwynbong@gmail.com !<br>
