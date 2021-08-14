@@ -5,11 +5,11 @@ I am Gwyn Bong, a final year Computer Science undergraduate at Nanyang Technolog
 - 🌱 I’m currently learning Flutter framework and Reactjs
 - ✉️ Drop me an email at gwynbong@gmail.com !
 
-## Connect with me:
+### 🤝🏻 Connect with me:
 [<img align="left" alt="gwynbxm" width="25px" src=""/>][linkedin]
 
-## Languages and Tools:
-[linkedin]: https://linkedin.com/in/gwyn-bxm
+### Languages and Tools:
+<a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
 <p align="center">
