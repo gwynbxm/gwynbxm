@@ -1,8 +1,8 @@
 ## Hello there, I'm Gwyn! 👋 </br>
-- 🎓 Final Year Computer Science Student at NTU, Singapore
-- 👀 I’m interested in mobile, web developments and photography
-- 🌱 I’m currently learning Flutter framework and Reactjs
-- ✉️ Drop me an email at gwynbong@gmail.com !
+🎓 Final Year Computer Science Student at NTU, Singapore
+👀 I’m interested in mobile, web developments and photography
+🌱 I’m currently learning Flutter framework and Reactjs
+✉️ Drop me an email at gwynbong@gmail.com !
 
 ### 🤝🏻 Connect with me:
 <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
