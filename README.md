@@ -9,7 +9,7 @@ I am Gwyn Bong, a final year Computer Science undergraduate at Nanyang Technolog
 <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### Languages and Tools:
-
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
 
 <p align="center">
