@@ -17,7 +17,7 @@ I am Gwyn Bong, a final year Computer Science undergraduate at Nanyang Technolog
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Google Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=git)&nbsp;
+![Google Firebase](https://img.shields.io/badge/-Google%20Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 
 <p align="center">
