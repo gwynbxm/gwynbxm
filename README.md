@@ -6,10 +6,10 @@ I am Gwyn Bong, a final year Computer Science undergraduate at Nanyang Technolog
 - ✉️ Drop me an email at gwynbong@gmail.com !
 
 ### 🤝🏻 Connect with me:
-[<img align="left" alt="gwynbxm" width="25px" src=""/>][linkedin]
+<a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### Languages and Tools:
-<a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 
 
 <p align="center">
