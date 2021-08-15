@@ -3,8 +3,7 @@
 👀 I’m interested in mobile, web developments and photography <br>
 🌱 I’m currently learning Flutter framework and Reactjs<br>
 ✉️ Drop me an email at gwynbong@gmail.com !<br>
-
-### 🤝🏻 Connect with me:
+🤝🏻 Connect with me at 
 <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### Languages and Tools:
