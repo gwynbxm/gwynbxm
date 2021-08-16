@@ -5,7 +5,7 @@
 ✉️ Drop me an email at gwynbong@gmail.com !<br>
 🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-### Languages and Tools:
+### Languages, Frameworks, Tools:
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
