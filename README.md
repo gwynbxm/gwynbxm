@@ -1,6 +1,6 @@
 # Hi, I'm Gwyn! 👋 </br>
 
-🚀 **Frontend Engineer | Aspiring UX Designer**
+### 🚀 Frontend Engineer | Aspiring UX Designer
 
 I'm a Frontend Engineer aspiring to be a UX Designer, with a passion for creating intuitive, user-centered designs. With 2 years of experience in software engineering, I specialize in frontend development while actively expanding my expertise in UI/UX design. I believe in crafting seamless, accessible, and visually engaging designs that prioritize user needs. Skilled in HTML, CSS, JavaScript, React, Flutter, and design tools like Figma and Axure RP, I’m currently focusing on improving my user research, wireframing, and prototyping skills. I am open to exploring new opportunities that leverage my skills in UX design and mobile app development. Let’s connect if you have opportunities where my expertise could be a fit for your team!
 
@@ -36,7 +36,7 @@ I'm a Frontend Engineer aspiring to be a UX Designer, with a passion for creatin
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 📧 Drop me an email at gwynbong@gmail.com <br>
 🤝🏻 Connect with me on <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
