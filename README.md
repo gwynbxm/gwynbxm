@@ -38,7 +38,7 @@ I'm a Frontend Engineer aspiring to be a UX Designer, with a passion for creatin
 
 ## 📫 Let's Connect!
 📧 Drop me an email at gwynbong@gmail.com <br>
-🤝🏻 Connect with me on LinkedIn &nbsp; <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+🤝🏻 Connect with me on <a href="https://linkedin.com/in/gwyn-bxm"><img src="https://img.shields.io/badge/-Gwyn%20Bong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <p align="center">
 <a href="https://github.com/gwynbxm">
